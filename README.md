@@ -14,7 +14,7 @@ A popular hacking forum recently witnessed the leak of an enormous password comp
 
 ## Magnet Link
 
-* **magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a** : This magnet link is associated with the RockYou2024 leak. Use at your own risk.
+* **magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a**
 
 ## Note about the Magnet Link
 
