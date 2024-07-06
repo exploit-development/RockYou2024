@@ -10,7 +10,7 @@ A popular hacking forum recently witnessed the leak of an enormous password comp
 
 ## Repository Contents
 
-* **rockyou2024.txt**: The leaked password file
+* **rockyou2024.zip**: The leaked password file
 
 ## Magnet Link
 
