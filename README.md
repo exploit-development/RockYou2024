@@ -12,6 +12,14 @@ A popular hacking forum recently witnessed the leak of an enormous password comp
 
 * **rockyou2024.txt**: The leaked password file
 
+## Magnet Link
+
+* **magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a**: This magnet link is associated with the RockYou2024 leak. Use at your own risk.
+
+## Note about the Magnet Link
+
+> **The magnet link is provided for research and educational purposes only. Be aware that downloading or sharing the linked content may be illegal in your country, and it is not endorsed or supported by this repository.**
+
 ## Security Risks
 
 > **Please be aware that this leak contains a massive number of plaintext passwords. If you have used any of these passwords in the past, it is essential to change them immediately to protect your online accounts.**
@@ -30,8 +38,4 @@ The leak was discovered by the Cybernews research team, who initially reported o
 
 ## Contributing
 
-If you have any information or tools related to this leak, feel free to contribute to this repository.
-
-## License Notice
-
-> **This repository is licensed under the MIT License. See LICENSE for details.**
+If you have any information or tools related to this leak
