@@ -7,15 +7,22 @@
 
 A popular hacking forum recently witnessed the leak of an enormous password compilation, dubbed RockYou2024. This leak contains a staggering 9,948,575,739 unique plaintext passwords, posing severe dangers to users who reuse passwords.
 
-## Repository Contents
-
-- **rockyou2024.zip**: The leaked password file
-
 ## Magnet Link
 
 To download the torrent file, please copy and paste the following magnet link into your torrent client:
 
-`magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a`
+**`magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a`**
+
+## How to Use
+
+To access the leaked passwords using the magnet link provided:
+
+1. Copy the magnet link: `magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a`
+2. Paste it into your torrent client's "Add URL" or "Add Magnet Link" option.
+
+## Repository Contents
+
+- **rockyou2024.zip**: The leaked password file
 
 ## Note about the Magnet Link
 
@@ -31,14 +38,7 @@ The leak was discovered by the Cybernews research team, who initially reported o
 
 ## License
 
-> **This repository is licensed under the [MIT License](https://github.com/exploit-development/RockYou2024/blob/main/LICENSE).**
-
-## How to Use
-
-To access the leaked passwords using the magnet link provided:
-
-1. Copy the magnet link: `magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a`
-2. Paste it into your torrent client's "Add URL" or "Add Magnet Link" option.
+> **This repository is licensed under the [MIT License](https://opensource.org/license/mit).**
 
 ### Feedback
 
