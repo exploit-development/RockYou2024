@@ -3,10 +3,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/exploit-development/RockYou2024.svg?style=social)](https://github.com/exploit-development/RockYou2024/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/exploit-development/RockYou2024.svg?style=social)](https://github.com/exploit-development/RockYou2024/network/members)
 
-## ⚠️ Warning
-
-> **This repository contains a massive password leak with nearly 10 billion unique passwords. Please handle with care and do not attempt to use any passwords found in this leak.**
-
 ## Background
 
 A popular hacking forum recently witnessed the leak of an enormous password compilation, dubbed RockYou2024. This leak contains a staggering 9,948,575,739 unique plaintext passwords, posing severe dangers to users who reuse passwords.
