@@ -1,6 +1,9 @@
 # RockYou2024: The Largest Password Compilation Leak
 
-## Warning
+[![GitHub Stars](https://img.shields.io/github/stars/exploit-development/RockYou2024.svg?style=social)](https://github.com/exploit-development/RockYou2024/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/exploit-development/RockYou2024.svg?style=social)](https://github.com/exploit-development/RockYou2024/network/members)
+
+## ⚠️ Warning
 
 > **This repository contains a massive password leak with nearly 10 billion unique passwords. Please handle with care and do not attempt to use any passwords found in this leak.**
 
@@ -10,11 +13,13 @@ A popular hacking forum recently witnessed the leak of an enormous password comp
 
 ## Repository Contents
 
-* **rockyou2024.zip**: The leaked password file
+- **rockyou2024.zip**: The leaked password file
 
 ## Magnet Link
 
-* **magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a**
+To download the torrent file, please copy and paste the following magnet link into your torrent client:
+
+`magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a`
 
 ## Note about the Magnet Link
 
@@ -30,12 +35,15 @@ The leak was discovered by the Cybernews research team, who initially reported o
 
 ## License
 
-> **This repository is for educational and research purposes only. You are not permitted to use any passwords found in this leak for malicious activities.**
+> **This repository is licensed under the [MIT License](https://github.com/exploit-development/RockYou2024/blob/main/LICENSE).**
 
-## Disclaimer
+## How to Use
 
-> **We do not condone or promote any illegal activities, including password reuse or unauthorized access to accounts.**
+To access the leaked passwords using the magnet link provided:
 
-## Contributing
+1. Copy the magnet link: `magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a`
+2. Paste it into your torrent client's "Add URL" or "Add Magnet Link" option.
 
-If you have any information or tools related to this leak
+### Feedback
+
+We welcome your feedback! If you have any suggestions or concerns, please open an issue or contact us.
