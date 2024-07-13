@@ -1,4 +1,4 @@
-# RockYou2024: The Largest Password Compilation Leak
+# RockYou2024 : The Largest Password Compilation Leak
 
 [![GitHub Stars](https://img.shields.io/github/stars/exploit-development/RockYou2024.svg?style=social)](https://github.com/exploit-development/RockYou2024/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/exploit-development/RockYou2024.svg?style=social)](https://github.com/exploit-development/RockYou2024/network/members)
