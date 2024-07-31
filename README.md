@@ -32,6 +32,37 @@ To access the leaked passwords using the magnet link provided:
 
 > **Please be aware that this leak contains a massive number of plaintext passwords. If you have used any of these passwords in the past, it is essential to change them immediately to protect your online accounts.**
 
+## Search
+
+### Compile
+
+> clang main.c -o rockme
+
+### Prepare
+
+Create patterns file with '\n' line terminator except the last line
+
+> echo -e "my_secret_1\nmy_secret_2" > patterns
+
+### Run
+
+> ./rockme -s rockyou2024.txt -p patterns -o result -t 4 -e -x
+
+### Usage
+
+```
+Usage:
+
+-s <SOURCE> -p <PATTERNS> -o <OUTPUT> [OPTIONS]
+
+Options:
+
+-t		num of threads (default all)
+-e		use strcmp for patterns (default strstr)
+-x		don't print patterns
+```
+
+
 ## Credits
 
 The leak was discovered by the Cybernews research team, who initially reported on the incident.
