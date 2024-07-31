@@ -1,4 +1,34 @@
-# RockYou2024 : The Largest Password Compilation Leak
+# RockYou Searcher
+
+### Compile
+
+> clang main.c -o rockme
+
+### Prepare
+
+Create patterns file with '\n' line terminator except the last line
+
+> echo -e "my_secret_1\nmy_secret_2" > patterns
+
+### Run
+
+> ./rockme -s rockyou2024.txt -p patterns -o result -t 4 -e -x
+
+### Usage
+
+```
+Usage:
+
+-s <SOURCE> -p <PATTERNS> -o <OUTPUT> [OPTIONS]
+
+Options:
+
+-t		num of threads (default all)
+-e		use strcmp for patterns (default strstr)
+-x		don't print patterns
+```
+
+## RockYou2024 : The Largest Password Compilation Leak
 
 [![GitHub Stars](https://img.shields.io/github/stars/exploit-development/RockYou2024.svg?style=social)](https://github.com/exploit-development/RockYou2024/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/exploit-development/RockYou2024.svg?style=social)](https://github.com/exploit-development/RockYou2024/network/members)
@@ -31,37 +61,6 @@ To access the leaked passwords using the magnet link provided:
 ## Security Risks
 
 > **Please be aware that this leak contains a massive number of plaintext passwords. If you have used any of these passwords in the past, it is essential to change them immediately to protect your online accounts.**
-
-## Search
-
-### Compile
-
-> clang main.c -o rockme
-
-### Prepare
-
-Create patterns file with '\n' line terminator except the last line
-
-> echo -e "my_secret_1\nmy_secret_2" > patterns
-
-### Run
-
-> ./rockme -s rockyou2024.txt -p patterns -o result -t 4 -e -x
-
-### Usage
-
-```
-Usage:
-
--s <SOURCE> -p <PATTERNS> -o <OUTPUT> [OPTIONS]
-
-Options:
-
--t		num of threads (default all)
--e		use strcmp for patterns (default strstr)
--x		don't print patterns
-```
-
 
 ## Credits
 
