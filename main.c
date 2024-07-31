@@ -232,7 +232,7 @@ int main(int argc, char *argv[]) {
 
 	}
 
-	if (source_path == NULL && patterns_path == NULL && outout == NULL) {
+	if (source_path == NULL && patterns_path == NULL && output == NULL) {
 		usage();
 	}
 
